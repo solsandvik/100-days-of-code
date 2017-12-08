@@ -14,10 +14,40 @@ Two hours of course-work, creating in HTML.
 Set up my first repository through use of Terminal. More HTML.
 
 ### R1D4 
---
+Completed HTML5 and CSS in FreeCodeCamp.
 
 ### R1D5
---
+Completed responsive design with Bootstrap and jQuery in FreeCodeCamp.
 
 ### R1D6 
+--
+
+### R1D7
+--
+
+### R1D8 
+--
+
+### R1D9 
+--
+
+### R1D10 
+--
+
+### R1D11 
+--
+
+### R1D12 
+--
+
+### R1D13 
+--
+
+### R1D14 
+--
+
+### R1D15 
+--
+
+### R1D16 
 --
