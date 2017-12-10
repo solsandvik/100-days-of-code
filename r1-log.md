@@ -20,10 +20,10 @@ Completed HTML5 and CSS in FreeCodeCamp.
 Completed responsive design with Bootstrap and jQuery in FreeCodeCamp.
 
 ### R1D6 
---
+Udemy course, finished section 1-3.
 
 ### R1D7
---
+Work on project for FreeCodeCamp, started section 4 on Udemy.
 
 ### R1D8 
 --
