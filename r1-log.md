@@ -26,19 +26,19 @@ Udemy course, finished section 1-3.
 Work on project for FreeCodeCamp, started section 4 on Udemy.
 
 ### R1D8 
---
+Exam day. More on project FCC site.
 
 ### R1D9 
---
+Worked on Udemy section 4.
 
 ### R1D10 
---
+Udemy section 4,plus understanding GitHub.
 
 ### R1D11 
---
+Exam day. No coding.
 
 ### R1D12 
---
+Finished FCC site.
 
 ### R1D13 
 --
