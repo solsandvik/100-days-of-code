@@ -41,13 +41,13 @@ Exam day. No coding.
 Finished FCC site.
 
 ### R1D13 
---
+More Udemy. Re-did challenges without assistance.
 
 ### R1D14 
---
+Back to FCC, continuing after the tribute site.
 
 ### R1D15 
-M --
+Began section 5 on Udemy.
 
 ### R1D16 
 --
