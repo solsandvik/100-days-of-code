@@ -50,43 +50,19 @@ Back to FCC, continuing after the tribute site.
 Began section 5 on Udemy.
 
 ### R1D16 
---
+Halfway through section 5!
 
 ### R1D17 
---
+FCC. Smashing it.
 
 ### R1D18 
---
+Completed section 5.
 
 ### R1D20 
---
+Working on task.
 
 ### R1D21 
---
+FCC.
 
 ### R1D22 
---
-
-### R1D23 
-M--
-
-### R1D24 
---
-
-### R1D25 
---
-
-### R1D26 
---
-
-### R1D27 
---
-
-### R1D28 
---
-
-### R1D29
---
-
-### R1D30 
-M--
+Putting this project on hold.
